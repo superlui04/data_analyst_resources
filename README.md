@@ -21,3 +21,26 @@
 
 ### Python
 - 100 Days of Code - [Udemy Course](https://www.udemy.com/course/100-days-of-code/)
+
+  ## Insights from @superlui04
+
+**What makes a person a good Data analyst?**
+- Can handle working with a lot of data
+- Has a curious mind and loves tackling challenging projects
+
+**Platforms and tools commonly used:**
+- SQL and visualization tools (Qliksense/Power BI)
+- Excel (strong skills)
+- Database management systems (PostgreSQL/MySQL/MS SQL)
+- BI tools like Tableau, Power BI, Looker Studio
+
+**Career ladder:**
+- Transition to roles like data engineering, data scientist, analytics manager
+- Individual contributor role is also an option
+
+**Green signals while hiring:**
+- Strong communication skills
+- Collaboration experience in projects
+- Innovative problem-solving approach
+
+
