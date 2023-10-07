@@ -22,6 +22,9 @@
 ### Python
 - 100 Days of Code - [Udemy Course](https://www.udemy.com/course/100-days-of-code/)
 
+### Possible Courses you can take
+WwcDAtaScience Course suggestion - [https://docs.google.com/document/d/1PJcfkVfS7XjGmPR0ckKSiFaSCCRSVOLrX8X5hb1p5Es]
+
   ## Insights from @superlui04
 
 **What makes a person a good Data analyst?**
