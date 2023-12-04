@@ -11,7 +11,7 @@
 - Data Quest - [Link](https://www.dataquest.io/)
 
 ### **Influencers**
-- Alex the Analyst - (https://www.youtube.com/@AlexTheAnalyst)
+- Alex the Analyst - [https://www.youtube.com/@AlexTheAnalyst]
 - Tina Huang - [YouTube Channel](https://www.youtube.com/@TinaHuang1)
 - Thu Va - [YouTube Channel](https://www.youtube.com/@Thuvu5)
 
