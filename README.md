@@ -4,13 +4,14 @@
 - Project Sparta (Data Analyst) - [Link](https://linang.dap.edu.ph/)
 - UBP Xcellerator - [Link](https://ubpxcellerator.apptitude.xyz/)
 - UP Open University - [Link](https://model.upou.edu.ph/)
+  
 
 ### **Coding**
 - Data Camp - [Link](https://www.datacamp.com/)
 - Data Quest - [Link](https://www.dataquest.io/)
 
 ### **Influencers**
-- Alex the Analyst - [YouTube Channel](https://www.youtube.com/@AlexTheAnalyst)
+- Alex the Analyst - (https://www.youtube.com/@AlexTheAnalyst)
 - Tina Huang - [YouTube Channel](https://www.youtube.com/@TinaHuang1)
 - Thu Va - [YouTube Channel](https://www.youtube.com/@Thuvu5)
 
@@ -19,8 +20,17 @@
 - Kada Kareer - [Link](https://kadakareer.com/)
 - Tech Career Shifters - [Facebook Group](https://www.facebook.com/groups/techcareershifter/)
 
+### **Bootcamp**
+- Eskwelabs -(https://eskwelabs.com/)
+
 ### Python
 - 100 Days of Code - [Udemy Course](https://www.udemy.com/course/100-days-of-code/)
+- Omdena School  (https://omdena.com/omdena-academy/)
+
+Coding Exam
+- Hackerrank (https://hackerrank.com/)
+Interview
+- Pramp  (https://pramp.com/)
 
 ### Possible Courses you can take
 WWC DataScience Course Suggestion - [https://docs.google.com/document/d/1PJcfkVfS7XjGmPR0ckKSiFaSCCRSVOLrX8X5hb1p5Es]
