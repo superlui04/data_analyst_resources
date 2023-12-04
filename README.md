@@ -11,7 +11,7 @@
 - Data Quest - [Link](https://www.dataquest.io/)
 
 ### **Influencers**
-- Alex the Analyst - https://www.youtube.com/@AlexTheAnalyst
+- Alex the Analyst - [YouTube Channel] (https://www.youtube.com/@AlexTheAnalyst)
 - Tina Huang - [YouTube Channel](https://www.youtube.com/@TinaHuang1)
 - Thu Va - [YouTube Channel](https://www.youtube.com/@Thuvu5)
 
@@ -21,15 +21,16 @@
 - Tech Career Shifters - [Facebook Group](https://www.facebook.com/groups/techcareershifter/)
 
 ### **Bootcamp**
-- Eskwelabs -(https://eskwelabs.com/)
+- Eskwelabs - [Link](https://www.eskwelabs.com/)
 
-### Python
+### **Python**
 - 100 Days of Code - [Udemy Course](https://www.udemy.com/course/100-days-of-code/)
-- Omdena School  (https://omdena.com/omdena-academy/)
+- Omdena School  [Courses] (https://omdena.com/omdena-academy/)
 
-Coding Exam
-- Hackerrank (https://hackerrank.com/)
-Interview
+### **Coding Exam**
+- Hackerrank [Link] (https://www.hackerrank.com/)
+  
+### **Interview**
 - Pramp  (https://pramp.com/)
 
 ### Possible Courses you can take
