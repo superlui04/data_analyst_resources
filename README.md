@@ -11,7 +11,7 @@
 - Data Quest - [Link](https://www.dataquest.io/)
 
 ### **Influencers**
-- Alex the Analyst - [YouTube Channel] (https://www.youtube.com/@AlexTheAnalyst)
+- Alex the Analyst - [YouTube Channel](https://www.youtube.com/@AlexTheAnalyst)
 - Tina Huang - [YouTube Channel](https://www.youtube.com/@TinaHuang1)
 - Thu Va - [YouTube Channel](https://www.youtube.com/@Thuvu5)
 
@@ -25,13 +25,13 @@
 
 ### **Python**
 - 100 Days of Code - [Udemy Course](https://www.udemy.com/course/100-days-of-code/)
-- Omdena School  [Courses] (https://omdena.com/omdena-academy/)
+- Omdena School  [Courses](https://omdena.com/omdena-academy/)
 
 ### **Coding Exam**
-- Hackerrank [Link] (https://www.hackerrank.com/)
+- Hackerrank [Link](https://www.hackerrank.com/)
   
 ### **Interview**
-- Pramp  (https://pramp.com/)
+- Pramp [Link[(https://pramp.com/)
 
 ### Possible Courses you can take
 WWC DataScience Course Suggestion - [https://docs.google.com/document/d/1PJcfkVfS7XjGmPR0ckKSiFaSCCRSVOLrX8X5hb1p5Es]
