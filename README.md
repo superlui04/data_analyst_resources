@@ -46,7 +46,6 @@ WWC DataScience Course Suggestion - [https://docs.google.com/document/d/1PJcfkVf
 - SQL and visualization tools (Qliksense/Power BI)
 - Excel (strong skills)
 - Database management systems (PostgreSQL/MySQL/MS SQL)
-- BI tools like Tableau, Power BI, Looker Studio
 
 **Career ladder:**
 - Transition to roles like data engineering, data scientist, analytics manager
